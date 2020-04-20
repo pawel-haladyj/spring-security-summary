@@ -1,0 +1,5 @@
+https://github.com/bartoszkomin/hibernate-many-to-many-demo/blob/master/pom.xml
+http://bartoszkomin.blogspot.com/2017/01/many-to-many-relation-with-hibernate.html
+
+manytomany recursion
+https://www.youtube.com/watch?v=oxsVZSlJfM4
