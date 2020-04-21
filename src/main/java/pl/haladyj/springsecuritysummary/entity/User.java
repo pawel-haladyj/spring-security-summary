@@ -1,6 +1,5 @@
 package pl.haladyj.springsecuritysummary.entity;
 
-
 import com.fasterxml.jackson.annotation.JsonBackReference;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
